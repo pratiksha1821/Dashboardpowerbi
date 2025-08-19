@@ -1,4 +1,4 @@
-I have made this Dashboard for making easy to analyse data easily. I have created maps, charts and also joined them with same slicer.
+I have made this Dashboard for making it easy to analyse data. I have created maps, charts and also joined them with same slicer.
 📌 Project Overview
 📱 Sales performance by product & brand
 🌍 Regional and market-wise sales trends
